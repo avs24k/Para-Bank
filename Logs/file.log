@@ -1,0 +1,12 @@
+2023-08-30 02:19:15,883: INFO: Test_Regi_Page: root: user click on registration button
+2023-08-30 02:19:16,233: INFO: Test_Regi_Page: root: Enter First Name
+2023-08-30 02:19:16,345: INFO: Test_Regi_Page: root: Enter Last Name
+2023-08-30 02:19:16,459: INFO: Test_Regi_Page: root: Enter street Name
+2023-08-30 02:19:16,558: INFO: Test_Regi_Page: root: Enter City Name
+2023-08-30 02:19:16,668: INFO: Test_Regi_Page: root: Enter State Name
+2023-08-30 02:19:16,769: INFO: Test_Regi_Page: root: Enter Zip code
+2023-08-30 02:19:16,874: INFO: Test_Regi_Page: root: Enter phone Number
+2023-08-30 02:19:16,983: INFO: Test_Regi_Page: root: Enter SSN Number
+2023-08-30 02:19:17,070: INFO: Test_Regi_Page: root: Enter User Name
+2023-08-30 02:19:17,158: INFO: Test_Regi_Page: root: Enter Password
+2023-08-30 02:19:17,250: INFO: Test_Regi_Page: root: Enter confirm Password
