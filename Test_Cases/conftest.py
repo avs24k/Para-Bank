@@ -10,6 +10,8 @@ def setup(request):
     request.cls.driver.get("https://parabank.parasoft.com/parabank/index.htm")
     request.cls.driver.implicitly_wait(20)
     request.cls.driver.maximize_window()
+    request.cls.driver.get_screenshot_as_file("SS.png")
+
 
 
 
