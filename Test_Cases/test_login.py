@@ -9,3 +9,8 @@ class Test_login(Base_class):
         lg.input_name("Avinash")
         lg.input_password("Avinash123")
         lg.login_button()
+
+        A = self.driver.window_handles
+        print("window Handle:", A)
+        B = self.driver.switch_to.window(A[0])
+        print(B)
